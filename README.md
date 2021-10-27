@@ -15,5 +15,6 @@
 
 * Animações em alguns elementos 
 
-
+## ACESSO:
+Você pode acessar o site em: https://omnifood-responsivewebsite.netlify.app/
 
